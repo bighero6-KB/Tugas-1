@@ -1,0 +1,30 @@
+Nama Anggota Kelompok Big Hero 6:
+- Nico Kurniawan (26415136)
+- Tommy Sugiarto (26415121)
+- Stephen Lukas  (26415068)
+
+Proposal Kecerdasan Buatan
+--------------------------
+
+yang dikembangkan dalam Swarm Artificial Life adalah tentang Semut Mencari Makanan:
+
+Dalam kehidupan nyata semut-semut itu bekerja sama satu sama lain untuk mencari dan
+menyimpan bahan makanan yang di dapat di berbagai tempat, baik itu dari hutan-hutan
+maupun halaman-halaman rumah lainnya. Untuk mencari makanan, semut-semut tersebut 
+menggunakan hidungnya yang dapat mencium berbagai bau makanan. Selain itu hidung 
+semut pun dapat membedakan musuh diantara teman-teman satu kolono mereka. Bukan
+cuma pada hidungnya, antenanya semut juga hampir sama gunanya dengan hidung untuk mendeteksi
+sesuatu, cuma antenanya bersifat super sensitif  
+
+Dalam penggunaan python, yang perlu dikembangkan dalam mendeteksi berbagai sesuatu adalah:
+- Membuat sebuah area pada semut sebagai pendeteksi yang sama gunanya dengan antena dan hidung.
+- Jika ada berbagai sesuatu yang memasuki areanya pendeteksi semut tersebut, baik itu makanan, koloni,
+  maupun musuh, sebelum semut bertindak, semut mendeteksi apakah itu musuh, makanan, atau koloni.
+- Jika dideteksi sebuah makanan, maka semut mulai bertindak atau melakukan pengambilan makanan dan
+  dibawa ke sarangnya. Untuk pengambilan makanan, ada waktu atau delay pengambilannya. Jadi
+  adanya waktu yang dibutuhkan untuk mengambil makanan.
+- Jika dideteksi ketemu musuh, maka semut mulai bertindak untuk menyerang musuh tersebut dan musuh 
+  akan menghilang.
+- Untuk memunculkan makanan, diberi waktu sekitar 11 - 20 per detik untuk dimunculkan. Sedangkan
+  untuk semut, diberi waktu sekitar 1 - 10 per detik untuk dimunculkan. 
+- Diberi sebuah HP (Hit Point) pada makanan agar dapat tau berapa lama makanan akan habis.
